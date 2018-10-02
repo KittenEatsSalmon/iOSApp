@@ -7,10 +7,12 @@ App Walk-though
 
 
 
-file:///Users/austinpao/Documents/IOS%20DEMO.gif
+(after recieving email for recommended revision)file:///Users/mandywesley/Desktop/iOSApp.gif
+
+//(previous version, before deadline)file:///Users/austinpao/Documents/IOS%20DEMO.gif
 
 
-//Completed project on my own but used my collegaues macbook because I only have a PC. But my macbook pro is coming by Tuesday 10/2/18
+//Completed project on my own but used my residents macbook to redo project because I only have a PC. But my macbook pro is coming by Tuesday 10/2/18. Recieved an email to improve on app.
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
